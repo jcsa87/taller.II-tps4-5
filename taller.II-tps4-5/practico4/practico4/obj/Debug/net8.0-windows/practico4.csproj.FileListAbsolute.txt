@@ -1,0 +1,16 @@
+C:\Users\juan cruz\source\repos\practico4\practico4\bin\Debug\net8.0-windows\practico4.exe
+C:\Users\juan cruz\source\repos\practico4\practico4\bin\Debug\net8.0-windows\practico4.deps.json
+C:\Users\juan cruz\source\repos\practico4\practico4\bin\Debug\net8.0-windows\practico4.runtimeconfig.json
+C:\Users\juan cruz\source\repos\practico4\practico4\bin\Debug\net8.0-windows\practico4.dll
+C:\Users\juan cruz\source\repos\practico4\practico4\bin\Debug\net8.0-windows\practico4.pdb
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.Form1.resources
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.csproj.GenerateResource.cache
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.AssemblyInfoInputs.cache
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.AssemblyInfo.cs
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.csproj.CoreCompileInputs.cache
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.dll
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\refint\practico4.dll
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.pdb
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\practico4.genruntimeconfig.cache
+C:\Users\juan cruz\source\repos\practico4\practico4\obj\Debug\net8.0-windows\ref\practico4.dll
